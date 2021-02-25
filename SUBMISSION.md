@@ -6,7 +6,7 @@ KALGI PAWAR- 1949662
 - [5 pts] Travis CI dashboard showing a successful first build.
 ![Part2](images/Part2.jpg)
 
-- [5 pts] The section of the POM file showing the coordinates after I changed them.
+- [5 pts] The section of the POM file showing the coordinates after changing them.
 ![Part3](images/Part3.jpg)
 
 - [5 pts] Travis CI dashboard showing a successful build after changing of the group ID.
