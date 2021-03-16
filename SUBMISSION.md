@@ -1,6 +1,7 @@
 KALGI PAWAR- 1949662
 
 DOCKER
+
 -[5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
 https://github.com/kalgi14/spring-petclinic/blob/master/Dockerfile
 
@@ -11,6 +12,7 @@ https://github.com/kalgi14/spring-petclinic/blob/master/Dockerfile
 ![Capture2](images/Capture2.jpg)
 
 DOCKER COMPOSE - MYSQL ONLY
+
 -[5 pts] The output from the docker-compose up command.
 ![Capture3-1](images/Capture3-1.jpg)
 ![Capture3-2](images/Capture3-2.jpg)
@@ -23,6 +25,7 @@ container that has been updated to use MySQL.
 ![Capture5](images/Capture5.jpg)
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
+
 -[5 pts] Your updated docker-compose.yml file containing the application server, built from
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.
