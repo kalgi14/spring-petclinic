@@ -1,32 +1,44 @@
 KALGI PAWAR- 1949662
 
-- [5 pts] My Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
-![Part1](images/Part1.jpg)
+DOCKER
+-[5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
+https://github.com/kalgi14/spring-petclinic/blob/master/Dockerfile
 
-- [5 pts] Travis CI dashboard showing a successful first build.
-![Part2](images/Part2.jpg)
+-[5 pts] Your running docker instance as shown by a ps command
+![Capture1](images/Capture1.jpg)
 
-- [5 pts] The section of the POM file showing the coordinates after changing them.
-![Part3](images/Part3.jpg)
+-[5 pts] Your browser accessing the main page of the website from your local container.
+![Capture2](images/Capture2.jpg)
 
-- [5 pts] Travis CI dashboard showing a successful build after changing of the group ID.
-![Part4](images/Part4.jpg)
+DOCKER COMPOSE - MYSQL ONLY
+-[5 pts] The output from the docker-compose up command.
+![Capture3-1](images/Capture3-1.jpg)
+![Capture3-2](images/Capture3-2.jpg)
 
-- [5 pts] The section of the POM file showing the coordinates after commenting them out.
-![Part5](images/Part5.jpg)
+-[5 pts] Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
+![Capture4](images/Capture4.jpg)
 
-- [5 pts] Travis CI dashboard showing the unsuccessful build after the breaking change.
-![Part6](images/Part6.jpg)
+-[5 pts] A section of the stack trace generated when you attempt to run the application
+container that has been updated to use MySQL.
+![Capture5](images/Capture5.jpg)
 
-- [5 pts] Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
-![Part7](images/Part7.jpg)
+DOCKER COMPOSE - APP SERVER AND MYSQL
+-[5 pts] Your updated docker-compose.yml file containing the application server, built from
+your local Dockerfile, and the existing MySQL configuration. Please provide a link
+to this file rather than a screen capture.
+https://github.com/kalgi14/spring-petclinic/blob/master/docker-compose.yml
 
-- [5 pts] The section of the POM file showing the coordinates after fixing them.
-![Part8](images/Part8.jpg)
+-[5 pts] Your updated application-mysql.properties file containing the URL change for
+the database server. Please provide a link to this file rather than a screen capture.
+https://github.com/kalgi14/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
-- [5 pts] Travis CI dashboard showing the successful build after the breaking change has been fixed.
-![Part9](images/Part9.jpg)
+-[5 pts] The output from the docker-compose up command.
+![Capture6](images/Capture6.jpg)
 
-- [5 pts]  Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
-![Part10](images/Part10.jpg)
+-[5 pts] Your browser accessing the “Veterinarians” page of the website from your local container.
+![Capture7](images/Capture7.jpg)
+
+
+
+
 
