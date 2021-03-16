@@ -5,7 +5,7 @@ DOCKER
 https://github.com/kalgi14/spring-petclinic/blob/master/Dockerfile
 
 -[5 pts] Your running docker instance as shown by a ps command
-![Capture1](images/Capture1.jpg)
+![Capture1](images/Capture1.PNG)
 
 -[5 pts] Your browser accessing the main page of the website from your local container.
 ![Capture2](images/Capture2.jpg)
